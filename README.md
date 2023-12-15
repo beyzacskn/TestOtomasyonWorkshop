@@ -1,6 +1,6 @@
 Proje robotframework kullanılarak kullanıcının başarılı login olma testini içermektedir. 
 
-***Login Test Senaryosu 
+**Login Test Senaryosu**
 - https://www.petzzshop.com/ sitesine gidilir.
 - Üye girişi butonuna tıklanır.
 - Üye girişi ekranının geldiği gözlemlenir.
